@@ -1,5 +1,5 @@
 # bar_chart_race_tutorial
-Hola, bienvenidos a este tutorial, el cual te enseñará como realizar fácilmente, con lenguaje de programación Python, gráficos dinámicos de barras que evolucionan en el tiempo.
+Hola, bienvenidos a este tutorial, el cual enseñará como realizar fácilmente, con lenguaje de programación Python, gráficos dinámicos de barras que evolucionan en el tiempo.
 
 Mira un tutorial aquí: https://www.youtube.com/watch?v=8hZ0OkrKdEs
 
